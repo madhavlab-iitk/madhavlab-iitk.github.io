@@ -1,49 +1,28 @@
 ---
 layout: post
-title: Political Speech Database
-permalink: /datasets/poli_sd/
+title: MADHAV Lab Tic (MTic) Database.
+permalink: /datasets/m3/
 ---
 
-## Global information
+## Description
 
-  - Contact: [sigmedia_database@tcd.ie](mailto:sigmediag_database@tcd.ie) - The subject **must start** with the tag [PSD Request] (If the tag is not provided or invalid, your email will be ignored)
+MTic is a collection of real and synthetically generated audio recordings of periodic tics with the fundamental time period of 1 second. The recordings are done with a number of phones and in a variety of acoustic background conditions. There are 170 real audio recordings and 17000 (100 synthetic recordings per real recording) in this database. For further details on acquisition and synthetic data generation, refer to the accompanying paper below.
+
+
+
+## Overview
+
+  - Download the dataset from [this](https://onedrive.com) link.
+  - Contributors: [Abhishek Rai](https://madhavlab-iitk.github.io/team/abhirai), [Shiv Narayana Pandey]([https://localhost:4000/team/abhirai](https://madhavlab-iitk.github.io/team/shivnp)), [Suraj Jaiswal](https://madhavlab-iitk.github.io/team/jsuraj) and [Akshay Raina](https://madhavlab-iitk.github.io/team/akshayr)
+  - Contact: [vipular@iitk.ac.in](mailto:vipular@iitk.ac.in)
   - License:
   - Reference:
 
 ```bibtex
-@article{Cullen2018Jun,
-    title        = {A longitudinal database of Irish political speech with annotations of speaker ability},
-    author       = {Cullen, Ailbhe and Harte, Naomi},
-    year         = 2018,
-    month        = jun,
-    journal      = {Lang. Resources {\&}. Evaluation},
-    publisher    = {Springer Netherlands},
-    volume       = 52,
-    number       = 2,
-    pages        = {401--432},
-    doi          = {10.1007/s10579-017-9401-z},
-    issn         = {1574-0218},
+@article{raina2022syncnet,
+  title={SyncNet: Correlating Objective for Time Delay Estimation in Audio Signals},
+  author={Raina, Akshay and Arora, Vipul},
+  journal={arXiv preprint arXiv:2203.14639},
+  year={2023}
 }
 ```
-
-## Description
-
-
-The Irish Political Speech Database in an English language database which contains recordings of politicians in a range of settings.
-The database spans 7 years (2006-2012) and contains speech from a single speaker.
-
-Four speech settings are included in the database: parliamentary discussions; election rallies; interviews; and inter-party conferences.
-Recordings are primarily collected from online sources such as [YouTube](https://www.youtube.com/user/FineGaelMedia) and the [digital archives of the Irish Parliament](http://oireachtas.heanet.ie/archive/?Channel=Dail).
-This introduces a large variability, both in the format and resolution of recordings, and in the range of noise and reverberation conditions encountered.
-However, it also ensures that all expressions are authentic.
-
-Annotations have been crowd-sourced for six attributes:
-
-  - Boredom
-  - Charisma
-  - Enthusiasm
-  - Inspiration
-  - Likeability
-  - Persuasion
-
-Thus the database may be used to explore the evolution of speaking style over time, and to automatically predict these six attributes from the speech.
