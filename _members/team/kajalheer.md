@@ -2,9 +2,9 @@
 layout: member
 category: Project-Associate
 title: Kajal Heer
-date: 2022-01-08
+date: 2022-01-07
 image: kajalheer.png
-role: Data Analyst (Music)
+role: Music Teacher
 
 permalink: 'team/kajalheer'
 social:
