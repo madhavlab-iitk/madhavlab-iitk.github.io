@@ -3,6 +3,10 @@ layout: page
 title: Projects
 permalink: /projects/
 ---
+--------------------------------------------------------------------------------
+[ASR](##Automatic Speech Recognition)  [Audio Search](##Audio Search)  [AED](##Acoustic Event Detection)  [MIR](##Music Information Retrieval) [Physics](##ML for Physics)
+
+
 ## Automatic Speech Recognition
 
 Improving audio production tools meaningfully enhances the creative output of musicians, podcasters, producers and videographers. We focus on bridging the gap between the intentions of creators and the interfaces of audio recording and manipulation tools they use. Our work in this area has a strong human-centered machine learning component. Representative projects in the area are below. For further publications in this area, see our publications page.
