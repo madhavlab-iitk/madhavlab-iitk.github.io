@@ -1,7 +1,7 @@
 ---
 layout: post
 title: MADHAV Lab Tic (MTic) Database.
-permalink: /datasets/m3/
+permalink: /datasets/mtic/
 ---
 
 ## Description
