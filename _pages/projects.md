@@ -1,5 +1,5 @@
 ---
 layout: blog_page
-title: Blog
+title: Projects
 permalink: /projects/
 ---
