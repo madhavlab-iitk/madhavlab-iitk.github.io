@@ -4,8 +4,9 @@ title: Projects
 permalink: /projects/
 ---
 --------------------------------------------------------------------------------
-[ASR](##Automatic Speech Recognition)  [Audio Search](##Audio Search)  [AED](##Acoustic Event Detection)  [MIR](##Music Information Retrieval) [Physics](##ML for Physics)
+[ASR](#automatic-speech-recognition) &nbsp; [Audio Search](#audio-search)  &nbsp; [AED](#acoustic-event-detection)  &nbsp; [MIR](#music-information-retrieval) &nbsp; [Physics](#ml-for-physics)
 
+--------------------------------------------------------------------------------
 
 ## Automatic Speech Recognition
 
