@@ -1,5 +1,5 @@
 ---
-title: Software Publications
+title: Softwares
 layout: page
 permalink: /software/
 ---
